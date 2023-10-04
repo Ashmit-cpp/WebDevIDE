@@ -7,7 +7,6 @@ from PyQt5.QtWidgets import *
 class Browser(QWidget):
     def __init__(self, parent):
         super(Browser, self).__init__(parent)
-
         self.brlayout = QVBoxLayout()
         self.brlayout.setContentsMargins(10, 0, 10, 10)
         self.setLayout(self.brlayout)
