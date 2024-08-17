@@ -2,4 +2,4 @@
 
 IDE for Web Development
 
-![alt text](/WebDevIDE/IDE_SS.png)
+![alt text](/IDE_SS.png)
